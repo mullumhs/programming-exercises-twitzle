@@ -31,7 +31,9 @@ namespace ProgrammingExercisesIST
         static void Main(string[] args)
         {
             // Your code goes below here
-
+            Console.WriteLine("Hello Kitty");
+            Console.Beep(32767, 32767);
+            Console.ReadLine();
         }
     }
 }

@@ -44,7 +44,9 @@ namespace ProgrammingExercisesIST
         static void Main(string[] args)
         {
             // Your code goes below here
-
+            int bill = 7;
+            Console.WriteLine(bill);
+            Console
         }
     }
 }

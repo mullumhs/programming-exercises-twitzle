@@ -35,7 +35,7 @@ namespace ProgrammingExercisesIST
         {
             // Your code goes below here
             
-
+            string messi= "good football player"
         }
     }
 }
