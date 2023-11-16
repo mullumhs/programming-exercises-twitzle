@@ -77,7 +77,10 @@ namespace ProgrammingExercisesIST
 
         // Create your functions here
 
+        static int    
+        {
 
+        }
 
         // This is a function I have written to get a number from the user
         private static int GetNumber()
